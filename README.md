@@ -16,7 +16,7 @@ A Python tool that generates comprehensive exploratory data analysis reports fro
 ### Installation
 
 ```bash
-git clone https://github.com/bradleycorrigan/automated-eda-tool.git
+git clone https://github.com/bradleycorrigan/data-insight-generator.git
 cd data-insight-generator
 python -m venv venv
 source venv/bin/activate
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ### Usage
 
-**Web App (Recommended):**
+**Web App**
 ```bash
 streamlit run app.py
 ```
